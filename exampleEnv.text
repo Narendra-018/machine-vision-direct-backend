@@ -1,0 +1,7 @@
+NODE_ENV=development
+
+PORT=5000
+
+JWT_SECRET=some-scret-string
+
+DATABASE_URL="postgresql://testuser:password@localhost:5432/mvd-db?schema=public"
